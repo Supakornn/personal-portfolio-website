@@ -1,2 +1,2 @@
 # Personal-Portfolio-Website
-HTML 
+HTML CSS JS
