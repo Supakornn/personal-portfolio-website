@@ -1,2 +1,2 @@
 # Personal-Portfolio-Website
-HTML CSS JS
+Made with HTML,CSS,JS
